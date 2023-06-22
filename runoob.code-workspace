@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Downloads\\runoob-algorithm\\runoob-algorithm\\src\\runoob"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\C"
+		},
+		{
+			"path": "..\\JS"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
